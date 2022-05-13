@@ -1,0 +1,27 @@
+{
+  "workspace:copy-path": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "cm-show-whitespace-obsidian:toggle-show-whitespace": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "~"
+    }
+  ]
+}

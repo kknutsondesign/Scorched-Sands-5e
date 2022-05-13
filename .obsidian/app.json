@@ -1,0 +1,41 @@
+{
+  "obsidianCss": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "spellcheck": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "smartIndentList": true,
+  "spellcheckDictionary": [
+    "gameplay",
+    "lerp",
+    "Allocator",
+    "Multithreading",
+    "Picross",
+    "Alra",
+    "Orrum",
+    "Orrin",
+    "Orrid",
+    "arcanist",
+    "Spellcasting",
+    "spellslot"
+  ],
+  "showUnsupportedFiles": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:insert-embed",
+    "editor:toggle-blockquote",
+    "editor:toggle-numbered-list",
+    "editor:toggle-bullet-list",
+    "editor:insert-wikilink",
+    "insert-template",
+    "editor:toggle-checklist-status",
+    "editor:set-heading",
+    "editor:open-search"
+  ],
+  "defaultViewMode": "source"
+}

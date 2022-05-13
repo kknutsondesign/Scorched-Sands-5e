@@ -1,0 +1,116 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "35b59087c047a47f",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd574722faa0a287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Picross Survival/Picross Survival - DD.md",
+                "mode": "source"
+              }
+            },
+            "group": "b514ce1e284ba42f"
+          },
+          {
+            "id": "84a4a40943b95345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Picross Survival/Picross Survival - DD.md",
+                "mode": "preview"
+              }
+            },
+            "group": "b514ce1e284ba42f"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "29e22ffc83c2a7be",
+        "type": "split",
+        "children": [
+          {
+            "id": "237bd938a303ea55",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "baa375d9c4f48713",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3d107f9fcf351aa5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "0d5242cb156d0d6e",
+        "type": "split",
+        "children": [
+          {
+            "id": "e160f2c0cd4c7983",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8cfd5f7577c62c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Projects/Picross Survival/Picross Survival - DD.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "43552565373b5d08",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "dd574722faa0a287"
+    }
+  },
+  "active": "Default"
+}
