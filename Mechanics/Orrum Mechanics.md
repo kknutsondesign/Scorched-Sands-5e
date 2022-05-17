@@ -65,7 +65,8 @@ Some things that can go wrong include:
 If successful players may exchange up to their _ __effective__ class level_ worth of spell points using the DMG spell point variant rules. ($\frac{1}{2}$ or $\frac{1}{3}$ depending on class)
 
 
-#### 
+#### Managing your Orrum
+During normal play two pools are managed at any given time. The spellpoints players have on their person and the spellpoints 
 
 ### Vials and Spellscrawls(spell scrolls)
 With Orrum and well crafted vials comes the ability for anyone to cast spells even if they do not know the craft behind their making. For a cost or with work put in by some artisan, players may obtain sealed vials that require no maintenance from a true mage. These vials are usually crudely made and filled with less than quality Orrum given that they are being handled by those less familiar with the arcane arts. Still, given a reputable dealer or a bit of luck these 'spellscrawls' as they're known add power and utility to anyone's arsenal.
