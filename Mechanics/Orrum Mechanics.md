@@ -9,7 +9,7 @@ The greater either or both of these properties, the higher the grade of Orrum an
 
 For DMG-288 Spell Points casting:[^spellpoints]
 
-Even for those with vast power at their fingertips one must still have the knowledge and tools to put it to use. The working of an Orrum vial is tricky and deliberate thing, especially in the heat of battle. Vials are crafted specifically to keep their contents away from the magical runes they contain until, and more importantly __only when__, desired. Tubes and glass valves inside an Orrum vial prevent the casting of accidental spells... most of the time. Even still, when a spell gains options, targets, and continuous effects one must have an even higher level of familiarity to successfully pull off a single magical deed.
+Even for those with vast power at their fingertips one must still have the knowledge and tools to put it to use. The working of an Orrum vial is tricky and deliberate thing, especially in the heat of battle. Vials are crafted specifically to keep their contents away from the magical runes that are their companion until, and more importantly __only when__, desired. Tubes and glass valves inside an Orrum vial prevent the casting of accidental spells... most of the time. Even still, when a spell gains options, targets, and continuous effects one must have an even higher level of familiarity to successfully pull off a single magical deed.
 
 Depending of the player's highest level in a class containing the 'Spellcasting' feature they have developed the familiarity and skill to operate more elaborate arcane mechanisms.
 
@@ -54,7 +54,7 @@ Depending of the player's highest level in a class containing the 'Spellcasting'
 
 
 #### Orrum and Spell Points
-The spell points per level in the table above is an abstraction of how familiar you are to working with Orrum. Players begin fumbling and erratic with their castings and as such only handle Orrum in small quantities. While not otherwise occupied, ie. during short rests, they may attempt to refill their vials if there is more Orrum to hand. This comes with some danger of setting off a spell or spilling some Orrum if things go poorly. If done during a long rest the character has more time to work properly with their tools and thus avoid the normal risks involved.
+The spell points per level in the [[Orrum Mechanics#Spellcasting Table|table above]] is an abstraction of how familiar you are to working with Orrum. Players begin fumbling and erratic with their castings and as such only handle Orrum in small quantities. While not otherwise occupied, ie. during short rests, they may attempt to refill their vials if there is more Orrum to hand. This comes with some danger of setting off a spell or spilling some Orrum if things go poorly. If done during a long rest the character has more time to work properly with their tools and thus avoid the normal risks involved.
 
 Some things that can go wrong include: 
 - Being interrupted or bothered while working. 
@@ -63,6 +63,9 @@ Some things that can go wrong include:
 - Contaminating your vial of Orrum.
 
 If successful players may exchange up to their _ __effective__ class level_ worth of spell points using the DMG spell point variant rules. ($\frac{1}{2}$ or $\frac{1}{3}$ depending on class)
+
+
+#### 
 
 ### Vials and Spellscrawls(spell scrolls)
 With Orrum and well crafted vials comes the ability for anyone to cast spells even if they do not know the craft behind their making. For a cost or with work put in by some artisan, players may obtain sealed vials that require no maintenance from a true mage. These vials are usually crudely made and filled with less than quality Orrum given that they are being handled by those less familiar with the arcane arts. Still, given a reputable dealer or a bit of luck these 'spellscrawls' as they're known add power and utility to anyone's arsenal.
@@ -79,3 +82,5 @@ Orrum mixed in this way is rarely salvageable for the average resident and is ei
 [^spellpoints]: [DMG Link](https://5e.tools/variantrules.html#spell%20points_dmg)
 
 [^spellslots]: Though a large quantity of low grade Orrum certainly contains more magical flux than a single vial of the highest quality it lacks the ability to bring that power to bear on complex spells. Because of the nature of magic a given spell may need a certain amount of 'magical pressure' overcome nature and begin the activation of the runes. These amounts separate into clear cut tiers leading to the different grades of Orrum we are familiar with. 
+
+### 
