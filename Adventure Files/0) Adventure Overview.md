@@ -22,8 +22,6 @@ The old princes, cousins, and pretenders that claim some connection to the Old O
 
 The Orrin Remnant, or O.R. as stenciled on so many of their vessels, control the refining process that turns magic soaked sands into the valuable commodity Orrum. Every resident in Alra must interact with a representative of the Orrin Remnant frequently though few have actually met those behind the scenes. The O.R. take their status, and those who disparage it, very seriously.
 
-Recently the O.R. has been 
-
 
 #### People of the desert
 This section describes the groups that have formed out of the boat loads of people ferried in to the remnants of the Old Orrin Empire. These groups aren't exclusively aligned with any Power and people usually have connections to a handful of groups at any given time. People can be Factory Workers that dabble as Weekend Wizards and have family that are Rock Hoppers who help out.
@@ -38,4 +36,3 @@ This section describes the groups that have formed out of the boat loads of peop
 ##### Walking Dead(Go look up real name)
 
 ##### 
-- 
