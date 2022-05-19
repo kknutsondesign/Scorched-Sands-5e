@@ -4,3 +4,6 @@ https://watabou.github.io/
 
 https://donjon.bin.sh/fantasy/inn/
 
+https://watabou.github.io/village-generator/?seed=1741604974&tags=high%2Cisland
+
+

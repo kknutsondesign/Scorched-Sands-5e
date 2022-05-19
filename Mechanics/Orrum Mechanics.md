@@ -83,5 +83,3 @@ Orrum mixed in this way is rarely salvageable for the average resident and is ei
 [^spellpoints]: [DMG Link](https://5e.tools/variantrules.html#spell%20points_dmg)
 
 [^spellslots]: Though a large quantity of low grade Orrum certainly contains more magical flux than a single vial of the highest quality it lacks the ability to bring that power to bear on complex spells. Because of the nature of magic a given spell may need a certain amount of 'magical pressure' overcome nature and begin the activation of the runes. These amounts separate into clear cut tiers leading to the different grades of Orrum we are familiar with. 
-
-### 
